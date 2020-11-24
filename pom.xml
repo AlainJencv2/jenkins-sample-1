@@ -55,6 +55,6 @@
 		<connection>scm:git:https://github.com/AlainJencv2/jenkins-sample-1.git</connection>
 		<url>https://github.com/AlainJencv2/jenkins-sample-1</url>
 		<developerConnection>scm:git:https://github.com/AlainJencv2/jenkins-sample-1.git</developerConnection>
-        <tag>HEAD</tag
+		<tag>HEAD</tag>
        </scm>
 </project>
